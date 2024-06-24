@@ -3,7 +3,7 @@
 
 |*Nama|NIM|Kelas|Matkul*|
 |----|---|-----|------|
-|CARLOS LOUIS FERNANDO|312310458|TI.23.A.5|Basis Data|
+|SAMUEL DAMATTA TINDAON|312310462|TI.23.A.5|Basis Data|
 
 # Studi Kasus: ERD Karyawan
 
